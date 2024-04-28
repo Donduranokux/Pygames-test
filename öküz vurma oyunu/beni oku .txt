@@ -1,0 +1,9 @@
+Öküz vurma oyunu
+Nasıl oynanır:
+A sağa
+D sola
+Space zıplama
+K ateş etme
+
+Amaç: Öküz ordusunu alt edip boynuzları toplama
+Temel değişkenler: her 5 vuruşta bir boynuz gücü + dalga değişkeni 
